@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 s.name     = 'STRefresh'
 s.version  = '0.01'
-s.license  = 'MIT'
+s.license = { :type => "MIT", :file => "LICENSE" }
 s.summary  = 'Harness the power of Auto Layout NSLayoutConstraints with a simplified, chainable and expressive syntax.'
 s.homepage = 'https://github.com/liuaaaddxiaoer/cehsi'
 s.author   = { 'Jonas Budelmann' => 'jonas.budelmann@gmail.com' }
